@@ -1,0 +1,9 @@
+/*:root{
+     --bs-primary: #a4c9d8;
+     --bs-primary-rgb: 64, 79, 85;\index.html
+}
+*/
+
+.text-primary{
+    color: #a4c9d8 !important;
+}
